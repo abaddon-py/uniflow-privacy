@@ -1,0 +1,50 @@
+[
+  {
+    "name": "home.jpg",
+    "sourceSHA256": "617bf518d9cf4cef2ad3fdd3316e293a7cf3dddb795edda4d49812f3f7973b3a",
+    "outputSHA256": "f63f00d283771df499cf29d82f6b69dc29dba335c98ea0d05f4026f48499bda9",
+    "bytes": 65927,
+    "sourceCommit": "9598381e6e3a117562b6e165774f4da2e729e93f",
+    "method": "Existing approved asset, proportional downscale only; no UI edits"
+  },
+  {
+    "name": "study.jpg",
+    "sourceSHA256": "8b57c8b58af48eca8d660435272e2f76237d4b53611d3cd7439064275d0536c2",
+    "outputSHA256": "2afba723b9dc05a6bf72efc4534152da62b81b975ee695153070d548e1234227",
+    "bytes": 58559,
+    "sourceCommit": "9598381e6e3a117562b6e165774f4da2e729e93f",
+    "method": "Existing approved asset, proportional downscale only; no UI edits"
+  },
+  {
+    "name": "learning.png",
+    "sourceSHA256": "8a82bf77d917cbc1d49d2e57ecf99dcc991a7f1a1777c89f0137119fc9328f60",
+    "outputSHA256": "20553899efe4c7e3c3d661859d2d963cdd0a0f224b7e9e5ee3e5a805817dedf7",
+    "bytes": 78240,
+    "sourceCommit": "9598381e6e3a117562b6e165774f4da2e729e93f",
+    "method": "Existing approved asset, proportional downscale only; no UI edits"
+  },
+  {
+    "name": "focus.png",
+    "sourceSHA256": "18ac13dd475c2bdc8980c5bed89414f676e98c5040f7da6797b6add07da2b08e",
+    "outputSHA256": "94608261e0b171c63b6417e22d9c0f406018ec4d5fc8319026b849fc3cbd34bc",
+    "bytes": 157820,
+    "sourceCommit": "9598381e6e3a117562b6e165774f4da2e729e93f",
+    "method": "Existing approved asset, proportional downscale only; no UI edits"
+  },
+  {
+    "name": "finance.jpg",
+    "sourceSHA256": "25e99a80bab3f6fa3ec0a7d015d8b8666e5f0b52de8a5669fab27ddfd3ab744e",
+    "outputSHA256": "dc8053914fa8b57879e7fbc543a587b802073fd2d90a3cf06e107e863bd10535",
+    "bytes": 71682,
+    "sourceCommit": "9598381e6e3a117562b6e165774f4da2e729e93f",
+    "method": "Existing approved asset, proportional downscale only; no UI edits"
+  },
+  {
+    "name": "icon.png",
+    "sourceSHA256": "828b2b6e0cf18fec6d5365363acf4bd895b6df47c7a56a525db53d2fa968d422",
+    "outputSHA256": "06d6ef897b41f7713cffe48137eee3ab61f0079376fcadbf2f111bd8a8733e49",
+    "bytes": 109913,
+    "sourceCommit": "9598381e6e3a117562b6e165774f4da2e729e93f",
+    "method": "Existing approved asset, proportional downscale only; no UI edits"
+  }
+]
